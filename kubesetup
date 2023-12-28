@@ -27,7 +27,7 @@ net.bridge.bridge-nf-call-ip6tables = 1
 
 sysctl --system
 
-# Add Docker's official GPG key:
+# Add Docker's official GPG key: https://docs.docker.com/engine/install/ubuntu/
 
 apt-get update
 
